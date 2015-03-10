@@ -8,6 +8,7 @@ public class EmptySkiesTarget : TargetRules
 	public EmptySkiesTarget(TargetInfo Target)
 	{
 		Type = TargetType.Game;
+        bUsesSteam = true;
 	}
 
 	//
