@@ -6,8 +6,8 @@
 
 
 
-UFUNCTION(FUNC_BlueprintCallable, Category = "Dillon's Nodes")
-void SetSessionName(string SessionName)
-{
-
-}
+//UFUNCTION(FUNC_BlueprintCallable, Category = "Dillon's Nodes")
+//void SetSessionName(string SessionName)
+//{
+//
+//}
